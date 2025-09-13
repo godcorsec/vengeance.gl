@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/vxqueefsec/repos/vengeance6/build",
+	"dir-cur-src" : "C:/Users/vxqueefsec/repos/vengeance6/build",
+	"dir-top-bld" : "C:/Users/vxqueefsec/repos/vengeance6/build",
+	"dir-top-src" : "C:/Users/vxqueefsec/repos/vengeance6/build",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"..\\vendor\\includes"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/vxqueefsec/repos/vengeance6/build/CMakeFiles/vengeance6.dir",
+	"sources" : 
+	{
+		"CMakeFiles/vengeance6.dir/C_/Users/vxqueefsec/repos/vengeance6/src/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/vxqueefsec/repos/vengeance6/src/main.cpp"
+		}
+	}
+}

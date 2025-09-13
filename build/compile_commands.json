@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/vxqueefsec/repos/vengeance6/build",
+  "command": "C:\\msys64\\clang64\\bin\\c++.exe -IC:/Users/vxqueefsec/repos/vengeance6/build/../vendor/includes -std=gnu++23 @CMakeFiles\\vengeance6.dir\\C_\\Users\\vxqueefsec\\repos\\vengeance6\\src\\main.cpp.obj.modmap -o CMakeFiles\\vengeance6.dir\\C_\\Users\\vxqueefsec\\repos\\vengeance6\\src\\main.cpp.obj -c C:\\Users\\vxqueefsec\\repos\\vengeance6\\src\\main.cpp",
+  "file": "C:/Users/vxqueefsec/repos/vengeance6/src/main.cpp",
+  "output": "C:/Users/vxqueefsec/repos/vengeance6/build/CMakeFiles/vengeance6.dir/C_/Users/vxqueefsec/repos/vengeance6/src/main.cpp.obj"
+}
+]
